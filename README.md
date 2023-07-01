@@ -45,13 +45,6 @@ You can use tools like Postman to interact with the Sudoku Solver API. Refer to 
 
 <hr style="margin-top: 20px;">
 
-<video width="400" height="300" controls>
-  <source src="path/to/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request.
