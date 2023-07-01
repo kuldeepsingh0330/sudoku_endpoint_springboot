@@ -28,11 +28,28 @@ The application will start running on `http://localhost:8080`.
 You can use tools like Postman to interact with the Sudoku Solver API. Refer to the API endpoints section for detailed information on each endpoint and their usage.
 
 ## Screeshot
-<img src="https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/2e87da03-a84a-486b-ac23-81905c4a07c9" alt="Image_start" width="800" height="400" />
-<img src="https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/7ce44281-aeef-4266-9ee4-c6aad4833fc3
-" alt="Image_valid" width="800" height="400" />
-<img src="https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/2e743549-a8d0-4540-a97c-3caba48ab49b" alt="Image_invalid" width="800" height="400" />
-<img src="![suggestion](https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/50de7b5f-e62f-4082-ad1f-7901e5a01ebf)" alt="Image_suggestion" width="800" height="400" />
+<img src="https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/2e87da03-a84a-486b-ac23-81905c4a07c9" alt="Image_start" width="800" height="400"/>
+
+<hr style="margin-top: 20px;">
+
+
+<img src="https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/61f91094-f14b-4933-b575-919c3c8b9e1d" alt="Image_valid" width="800" height="400" />
+
+<hr style="margin-top: 20px;">
+
+<img src="https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/c16ba2a5-2096-422d-9c4d-e3cf4c1b3dd6" alt="Image_invalid" width="800" height="400" />
+  
+<hr style="margin-top: 20px;">
+
+<img src="https://github.com/kuldeepsingh0330/sudoku_endpoint_springboot/assets/95225751/93bd8885-cfed-4a38-bde1-414724169624" alt="Image_suggestion" width="800" height="400" />
+
+<hr style="margin-top: 20px;">
+
+<video width="400" height="300" controls>
+  <source src="path/to/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## Contributing
